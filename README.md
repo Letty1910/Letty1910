@@ -161,19 +161,6 @@ _Oct 2021 – Jun 2023_
 </table>
 
 ---
-
-## 💬 Sigamos en contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lety-gamba">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-97B1A6?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lettysgamba1910@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Escribirme-EBBAB9?style=for-the-badge&logo=gmail&logoColor=000" />
-  </a>
-</p>
-
----
 <p align="center">
 Trabajo hecho con compromiso, curiosidad y creatividad por entender el negocio a través de los datos 🌈
 </p>
