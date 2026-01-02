@@ -175,7 +175,7 @@ _Oct 2021 – Jun 2023_
 
 ---
 <p align="center">
-Trabajo hecho con compromiso, curiosidad y obsesión por entender el negocio a través de los datos 🌈
+Trabajo hecho con compromiso, curiosidad y creatividad por entender el negocio a través de los datos 🌈
 </p>
 
 <p align="center">
