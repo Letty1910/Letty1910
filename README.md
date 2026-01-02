@@ -17,7 +17,7 @@
 <a href="https://github.com/Letty1910/Portfolio">
   <img src="https://img.shields.io/badge/Portfolio-Ver%20proyectos-97B1A6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="./cv/Leticia_Gamba_CV.pdf">
+<a href="./cv/Leticia_Gamba_CV.pdf.pdf">
   <img src="https://img.shields.io/badge/Descargar%20CV-PDF-EBBAB9?style=for-the-badge&logo=adobeacrobatreader&logoColor=000" />
 </a>
 
