@@ -28,7 +28,7 @@
 ## ✨ Sobre mí
 Convierto datos en **decisiones claras y accionables**.
 
-Trabajo en una gerencia que articula **4 empresas del Grupo CONCI** 🐄  (concesionario **John Deere**, Agroinsumos y Semillas, Riego y Ganadería), integrando **datos comerciales, operativos y territoriales** para entender el negocio de punta a punta.
+Trabajo en una gerencia que articula **4 empresas del Grupo CONCI** 🐄  (concesionario **John Deere**, Agroinsumos y Semillas **Nidera-Red.IN y Syngenta**, Riego y Ganadería), integrando **datos comerciales, operativos y territoriales** para entender el negocio de punta a punta.
 
 Cuento con experiencia en **Business Intelligence, automatización y análisis territorial**, aplicando **GIS y herramientas ArcGIS** en el rubro **Agro**, utilizando **NDVI** para estimar **biopotencial de clientes**, zonas productivas y oportunidades comerciales.
 
