@@ -89,7 +89,10 @@ _Oct 2021 – Jun 2023_
 
 ---
 
-## 🧩 Portfolio
+## 🧩 Portfolio 
+<a href="https://github.com/Letty1910/Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Ver%20proyectos-97B1A6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ### ⛽ Control de combustible (BI Operativo)  
 - **Problema:** consumo sin trazabilidad  
