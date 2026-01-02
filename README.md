@@ -64,20 +64,37 @@ Cuento con experiencia en **Business Intelligence, automatización y análisis t
 
 **Data Analyst | BI & Data — Grupo CONCI**  
 _Jun 2023 – Actualidad_  
-- Desarrollo de tableros BI para áreas comerciales, operativas y dirección  
-- Definición, estandarización y documentación de KPIs  
-- Migración del entorno de datos a **Microsoft Fabric**  
-- Integración de múltiples fuentes (ERP, APIs, CRM)  
-- Automatización de procesos y reporting  
-- Análisis territorial con GIS aplicado al negocio agro  
+
+- Diseño y desarrollo de **soluciones de Business Intelligence** para áreas comerciales, operativas y de dirección, con foco en la toma de decisiones gerenciales.  
+- Definición, estandarización y documentación de **KPIs estratégicos y operativos**, alineados a objetivos del negocio y a la gestión de la gerencia.  
+- Participación activa en la **gestión transversal de la gerencia**, articulando necesidades entre áreas, personas y objetivos de las distintas empresas del grupo.  
+- Liderazgo en la **migración del entorno de datos a Microsoft Fabric**, consolidando información en un **Data Lake / Lakehouse** como fuente única.  
+- Coordinación y acompañamiento de **proyectos de automatización e integración**, trabajando con equipos internos y proveedores.  
+- Integración de múltiples fuentes de datos (**ERP, APIs externas, CRM y sistemas operativos**), asegurando consistencia y calidad de la información.  
+- Automatización de procesos de actualización, control y reporting para optimizar tiempos y reducir tareas manuales.  
+- Análisis territorial aplicado al **rubro agro**, integrando datos geoespaciales (GIS) para fortalecer decisiones comerciales y estratégicas.
+- **People & Project Management:** gestión de stakeholders, coordinación transversal de equipos, priorización de proyectos de datos y liderazgo funcional del Área de Inteligencia de Datos.
+- **Consolidación y formalización del Área de Inteligencia de Datos (agosto 2024)**, quedando bajo mi supervisión y liderazgo, con foco en gobierno del dato, priorización de proyectos y generación de impacto en el negocio.
+
+---
+
+🔁 **Línea de transición**  
+Lo que comenzó como un rol analítico enfocado en Marketing evolucionó hacia una mirada transversal del negocio, integrando datos comerciales, operativos y territoriales. Esta evolución permitió sentar las bases del rol actual en BI & Data y derivó en la consolidación formal del Área de Inteligencia de Datos bajo mi supervisión.
+
+---
 
 **Analista de Datos – Marketing — CONCI**  
 _Oct 2021 – Jun 2023_  
-- Implementación y adopción de CRM  
-- Segmentación de clientes y leads  
-- Procesos ETL y mantenimiento de bases  
-- Reporting y KPIs para marcas (John Deere, Syngenta, Nidera – Red.IN)  
-- Soporte territorial y análisis de cobertura comercial  
+
+- Rol analítico enfocado en **Marketing y Comercial**, brindando soporte a la toma de decisiones de campañas, posicionamiento de marca y acciones comerciales.  
+- Implementación, adopción y acompañamiento del **CRM**, trabajando con equipos comerciales para mejorar el registro, uso y calidad de la información.  
+- Segmentación avanzada de **clientes y leads** para campañas comerciales, acciones de marketing y priorización de esfuerzos.  
+- Diseño y ejecución de procesos **ETL** para la extracción, transformación y mantenimiento de bases de datos comerciales y territoriales.  
+- Construcción de **reportes, KPIs y OKRs** para el seguimiento de objetivos de marketing y performance de marcas (John Deere, Syngenta, Nidera – Red.IN).  
+- Análisis territorial y de cobertura comercial, integrando herramientas **GIS (ArcGIS, AG360)** para optimizar zonas de influencia y oportunidades.  
+- Soporte analítico para la **planificación y organización del plan de marketing**, alineando datos, territorio y estrategia comercial.  
+- Supervisión y acompañamiento de equipos de **Atención al Campo**, definiendo y monitoreando rutas con foco en ampliar relevamiento territorial y posicionamiento de marca.
+
 ---
 
 ## 🚀 Impactos destacados
