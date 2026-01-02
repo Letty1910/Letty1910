@@ -131,7 +131,7 @@ _Oct 2021 – Jun 2023_
 ---
 
 ## 📄 CV
-➡️ [Descargar CV en PDF](./cv/Leticia_Gamba_CV.pdf)
+➡️ [Descargar CV en PDF](./cv/Leticia_Gamba_CV.pdf.pdf)
 
 ---
 
