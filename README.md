@@ -17,6 +17,9 @@
 <a href="https://github.com/Letty1910/Portfolio">
   <img src="https://img.shields.io/badge/Portfolio-Ver%20proyectos-97B1A6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="./cv/Leticia_Gamba_CV.pdf">
+  <img src="https://img.shields.io/badge/Descargar%20CV-PDF-EBBAB9?style=for-the-badge&logo=adobeacrobatreader&logoColor=000" />
+</a>
 
 </div>
 
@@ -87,57 +90,94 @@ _Oct 2021 – Jun 2023_
 🗺️ Análisis territorial con **GIS / NDVI** para estimar **biopotencial agro**  
 🤝 Integración de datos entre empresas para **cross-selling y gestión de cartera**
 
+
 ---
 
-## 🧩 Portfolio 
-<a href="https://github.com/Letty1910/Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-Ver%20proyectos-97B1A6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-### ⛽ Control de combustible (BI Operativo)  
-- **Problema:** consumo sin trazabilidad  
-- **Solución:** modelo BI + dashboard automatizado  
-- **Resultado:** control diario y detección de desvíos  
-👉 [Ver proyecto](./fuel-control)
-
-### 🐄 Feedlot – seguimiento productivo en tiempo real  
-- **Problema:** registros manuales y tardíos  
-- **Solución:** captura digital + KPIs  
-- **Resultado:** decisiones operativas ágiles  
-👉 [Ver proyecto](./feedlot)
-
-### 🗺️ Análisis territorial y biopotencial (GIS + Agro)  
-- **Problema:** falta de visibilidad del potencial productivo por zona  
-- **Solución:** ArcGIS + NDVI + datos comerciales  
-- **Resultado:** priorización de clientes y zonas productivas  
-👉 [Ver proyecto](./gis-biopotencial)
-
-### 🧱 Data Lake en Microsoft Fabric  
-- **Problema:** datos dispersos en múltiples sistemas  
-- **Solución:** ingesta, normalización y gobierno del dato  
-- **Resultado:** fuente única para análisis y reporting  
-👉 [Ver proyecto](./data-lake)
----
 ## 🎓 Formación y certificaciones
-- **Coderhouse:** SQL (2024), Python (2024), Looker Studio + GA4 (2023),  
-  Data Analytics (2021), Power BI (2021), Excel (2021)
-- **Universidad Nacional de Córdoba / Mundos E:**  
-  Diplomatura en Marketing Digital (2020), Líder Coach (2019)
+
+**Coderhouse**
+- SQL (2024)  
+- Python (2024)  
+- Looker Studio + GA4 (2023)  
+- Data Analytics (2021)  
+- Power BI (2021)  
+- Excel (2021)
+
+**Universidad Nacional de Córdoba / Mundos E**
+- Diplomatura en Marketing Digital (2020)  
+- Líder Coach (2019)
 
 ---
 
 ## 🌍 Idiomas
-🇬🇧 Inglés: intermedio  
-🇫🇷 Francés: básico (en curso)
+
+- 🇬🇧 **Inglés:** Intermedio  
+- 🇫🇷 **Francés:** Básico (en curso)
 
 ---
 
-## 📄 CV
-➡️ [Descargar CV en PDF](./cv/Leticia_Gamba_CV.pdf.pdf)
+## 💣 Proyectos
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/Letty1910/Portfolio/tree/main/fuel-control">
+    <img src="https://raw.githubusercontent.com/Letty1910/Portfolio/main/fuel-control/cover.png" width="100%" alt="Control de combustible" />
+    <br><strong>⛽ Control de combustible</strong>
+  </a>
+  <br>
+  <sub>Control de flota y consumo para reducir costos, ordenar salidas y definir políticas de uso basadas en datos.</sub>
+</td>
+
+<td width="50%" align="center">
+  <a href="https://github.com/Letty1910/Portfolio/tree/main/feedlot">
+    <img src="https://raw.githubusercontent.com/Letty1910/Portfolio/main/feedlot/cover.png" width="100%" alt="Feedlot" />
+    <br><strong>🐄 Feedlot productivo</strong>
+  </a>
+  <br>
+  <sub>Digitalización del registro ganadero para seguimiento de pariciones en tiempo real y mejora operativa a campo.</sub>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/Letty1910/Portfolio/tree/main/gis-biopotencial">
+    <img src="https://raw.githubusercontent.com/Letty1910/Portfolio/main/gis-biopotencial/cover.png" width="100%" alt="Biopotencial" />
+    <br><strong>🗺️ GIS & Biopotencial Agro</strong>
+  </a>
+  <br>
+  <sub>Visión 360° del cliente agro combinando territorio, producción y facturación para priorizar acciones comerciales.</sub>
+</td>
+
+<td width="50%" align="center">
+  <a href="https://github.com/Letty1910/Portfolio/tree/main/data-lake">
+    <img src="https://raw.githubusercontent.com/Letty1910/Portfolio/main/data-lake/cover.png" width="100%" alt="Data Lake" />
+    <br><strong>🧱 Data Lake</strong>
+  </a>
+  <br>
+  <sub>Arquitectura unificada para integrar fuentes, asegurar calidad de datos y escalar análisis y reporting.</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📍 Contacto
-📌 **Ubicación:** Córdoba, Argentina  
-🔗 **LinkedIn:** https://www.linkedin.com/in/lety-gamba  
-✉️ **Email:** lettysgamba1910@gmail.com
+## 💬 Sigamos en contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lety-gamba">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-97B1A6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lettysgamba1910@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Escribirme-EBBAB9?style=for-the-badge&logo=gmail&logoColor=000" />
+  </a>
+</p>
+
+---
+<p align="center">
+Trabajo hecho con compromiso, curiosidad y obsesión por entender el negocio a través de los datos 🌈
+</p>
+
+<p align="center">
+🌎 Córdoba, Argentina
+</p>
