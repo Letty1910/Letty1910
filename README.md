@@ -98,26 +98,25 @@ _Oct 2021 – Jun 2023_
 - **Problema:** consumo sin trazabilidad  
 - **Solución:** modelo BI + dashboard automatizado  
 - **Resultado:** control diario y detección de desvíos  
-📎 Demo / Capturas: (LINK)
+👉 [Ver proyecto](./fuel-control)
 
 ### 🐄 Feedlot – seguimiento productivo en tiempo real  
 - **Problema:** registros manuales y tardíos  
 - **Solución:** captura digital + KPIs  
 - **Resultado:** decisiones operativas ágiles  
-📎 Demo / Capturas: (LINK)
+👉 [Ver proyecto](./feedlot)
 
 ### 🗺️ Análisis territorial y biopotencial (GIS + Agro)  
 - **Problema:** falta de visibilidad del potencial productivo por zona  
 - **Solución:** ArcGIS + NDVI + datos comerciales  
 - **Resultado:** priorización de clientes y zonas productivas  
-📎 Demo / Capturas: (LINK)
+👉 [Ver proyecto](./gis-biopotencial)
 
 ### 🧱 Data Lake en Microsoft Fabric  
 - **Problema:** datos dispersos en múltiples sistemas  
 - **Solución:** ingesta, normalización y gobierno del dato  
 - **Resultado:** fuente única para análisis y reporting  
-📎 Doc / Arquitectura: (LINK)
-
+👉 [Ver proyecto](./data-lake)
 ---
 ## 🎓 Formación y certificaciones
 - **Coderhouse:** SQL (2024), Python (2024), Looker Studio + GA4 (2023),  
